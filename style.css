@@ -1,0 +1,49 @@
+body {
+    text-align: center;
+    background: linear-gradient(#bafffc 0%, #fabaff 100%);
+}
+
+img {
+    width: 100px;
+    height: 90px;
+    border-radius: 100px
+}
+
+h1 {
+    text-shadow: 1px 1px #F8BBD0;
+}
+
+#bio {
+    padding: 20px;
+    font-size: 20px;
+    font-family: monospace;
+}
+
+hr {
+    width: 50px;
+    border-width: thick;
+    border-color: black;
+    font-size: 50px;
+    margin-top: 50px
+}
+
+}
+
+h3 {
+    padding-top: 50px;
+    font-family: 'Lobster', cursive;
+    font-size: 30px
+}
+
+#link1 {
+    color: blue
+}
+
+#link1:hover {
+    color: red
+}
+#but{
+    width: 200;
+    height: 50;
+    font-size: 20
+}
